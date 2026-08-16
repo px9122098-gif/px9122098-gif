@@ -1,16 +1,22 @@
-## Hi there 👋
+# Alexander Smirnov
 
-<!--
-**px9122098-gif/px9122098-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Python Backend Developer focused on FastAPI, PostgreSQL
+and maintainable backend architecture.
 
-Here are some ideas to get you started:
+## Featured project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Workout Tracker
+A deployed full-stack training journal with authentication,
+analytics, automated tests and cloud deployment.
+
+- Live: https://workout-tracker-v3.onrender.com/
+- Source: https://github.com/px9122098-gif/workout.tracker_v3
+
+## Stack
+
+Python · FastAPI · PostgreSQL · SQLAlchemy · Alembic · Pytest
+JavaScript · HTML · CSS · GitHub Actions · Render
+
+## Currently learning
+
+React, production monitoring and backend system design.
