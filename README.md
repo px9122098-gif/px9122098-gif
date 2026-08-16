@@ -1,4 +1,4 @@
-# Alexander Smirnov
+# TheRaryz
 
 Junior Python Backend Developer focused on FastAPI, PostgreSQL
 and maintainable backend architecture.
